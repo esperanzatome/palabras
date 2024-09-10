@@ -1,5 +1,14 @@
-# palabras
-palabras clave por grupo gramatical en español
+### palabras
+## palabras clave por grupo gramatical en español
+API NODE que nos permite obtener la mayoría de las palabras de la gramática española divididas por grupos gramaticales.
+
+
+Tiene diversas aplicaciones tales como; buscadores, herramientas de idiomas, programas de gramática, análisis y generación de palabras,
+
+manipulación de texto, desarrollo de juegos, IA..."
+
+Los datos provienen de : # https://cfenollosa.com/blog/tag_nlp.html
+
 
 - Grupos gramaticales: https://palabras.onrender.com
 - 'nombre/topónimo'=> https://palabras.onrender.com/nombre/toponimo
